@@ -1,0 +1,32 @@
+[09-Apr-2017 16:29:00 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:30:40 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:31:39 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:32:20 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:32:49 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:32:58 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:33:47 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:34:26 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:35:18 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:35:56 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:38:47 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:44:28 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:45:17 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:46:23 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:50:23 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:51:31 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:51:31 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 16
+[09-Apr-2017 16:56:36 UTC] PHP Notice:  Array to string conversion in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 16:56:36 UTC] PHP Warning:  mail() expects parameter 4 to be string, array given in /home/infinitycreators/public_html/sendemail.php on line 24
+[09-Apr-2017 16:57:35 UTC] PHP Fatal error:  Unsupported operand types in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 16:57:52 UTC] PHP Fatal error:  Unsupported operand types in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 16:58:14 UTC] PHP Fatal error:  Unsupported operand types in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 16:58:37 UTC] PHP Fatal error:  Unsupported operand types in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 16:58:57 UTC] PHP Fatal error:  Unsupported operand types in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 17:00:22 UTC] PHP Fatal error:  Unsupported operand types in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 17:02:35 UTC] PHP Fatal error:  Unsupported operand types in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 17:06:22 UTC] PHP Fatal error:  Unsupported operand types in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 17:07:57 UTC] PHP Fatal error:  Unsupported operand types in /home/infinitycreators/public_html/sendemail.php on line 22
+[09-Apr-2017 17:14:54 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) in /home/infinitycreators/public_html/sendemail.php on line 18
+[09-Apr-2017 17:15:18 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) in /home/infinitycreators/public_html/sendemail.php on line 18
+[09-Apr-2017 17:15:31 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) in /home/infinitycreators/public_html/sendemail.php on line 18
+[09-Apr-2017 17:16:57 UTC] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) in /home/infinitycreators/public_html/sendemail.php on line 18
